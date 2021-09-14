@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Benchmark Example/.vs/Benchmark Example/v16
+/Benchmark Example/Benchmark Example/BenchmarkDotNet.Artifacts/results
+/Benchmark Example/Benchmark Example/BenchmarkDotNet.Artifacts
+/Benchmark Example/Benchmark Example/bin
+/Benchmark Example/Benchmark Example/obj
+/DateTimeBenchmark/.vs/DateTimeBenchmark/v16
+/DateTimeBenchmark/DateTimeBenchmark/BenchmarkDotNet.Artifacts
+/DateTimeBenchmark/DateTimeBenchmark/bin
+/DateTimeBenchmark/DateTimeBenchmark/obj
+/HangfireTrail/.vs/HangfireTrail/v16
+/HangfireTrail/HangfireTrail/bin/Debug/netcoreapp3.1
+/HangfireTrail/HangfireTrail/obj
+/HangfireTrail/.vs/HangfireTrail/DesignTimeBuild
+/HangfireTrail/.vs/HangfireTrail/config
