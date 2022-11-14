@@ -16,3 +16,6 @@
 /HangfireTrail/HangfireTrail/obj
 /HangfireTrail/.vs/HangfireTrail/DesignTimeBuild
 /HangfireTrail/.vs/HangfireTrail/config
+/AzureSolution/DemoWebApp01/bin
+/AzureSolution/DemoWebApp01/obj
+/AzureSolution/DemoWebApp01/wwwroot/lib/bootstrap/dist
