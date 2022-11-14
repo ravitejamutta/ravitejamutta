@@ -16,7 +16,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-
       - name: Set up .NET Core
         uses: actions/setup-dotnet@v1
         with:
@@ -24,7 +23,6 @@ jobs:
           include-prerelease: true
 
       - name: Build with dotnet
-        working-directory: /AzureSolution
         run: dotnet build --configuration Release
 
       - name: dotnet publish
