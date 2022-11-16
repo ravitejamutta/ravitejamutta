@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QjtCH3dW9p6Phh+EJ8Gkq0Bl4fr1RRlWnDPWhujsVryzLRf/qjxsCtOoagC9p3V9O8tpMA8s2uyzKXuxtXSSHw==",
+  "success": true,
+  "projectFilePath": "D:\\personal\\GitRepoPublic\\ravitejamutta\\AzureSolution\\Web\\Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\z003wrvj\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

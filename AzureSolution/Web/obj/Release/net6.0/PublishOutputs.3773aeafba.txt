@@ -1,0 +1,7 @@
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\Web\obj\Release\net6.0\PubTmp\Out\Web.exe
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\Web\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\Web\obj\Release\net6.0\PubTmp\Out\Web.dll
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\Web\obj\Release\net6.0\PubTmp\Out\Web.deps.json
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\Web\obj\Release\net6.0\PubTmp\Out\Web.runtimeconfig.json
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\Web\obj\Release\net6.0\PubTmp\Out\Web.pdb
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\Web\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll

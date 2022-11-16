@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e60d485c-5183-4210-a818-aa5bab725c02": {
+      "ProjectGuid": "e60d485c-5183-4210-a818-aa5bab725c02",
+      "DisplayName": "DemoWebApp01",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "64824a70-9a6e-4bd9-803e-4ba2b75e22f2": {
+      "ProjectGuid": "64824a70-9a6e-4bd9-803e-4ba2b75e22f2",
+      "DisplayName": "Api",
+      "ColorIndex": 1
+    },
+    "91900eef-52f1-4b72-94e4-5898efe42392": {
+      "ProjectGuid": "91900eef-52f1-4b72-94e4-5898efe42392",
+      "DisplayName": "Web",
+      "ColorIndex": 2
+    },
+    "c2e377ff-8668-4cf6-b652-bdfb14fc1f03": {
+      "ProjectGuid": "c2e377ff-8668-4cf6-b652-bdfb14fc1f03",
+      "DisplayName": "Az204Nov16",
+      "ColorIndex": 3
+    },
+    "bfff8c23-0337-4166-88f1-70daa9ca8037": {
+      "ProjectGuid": "bfff8c23-0337-4166-88f1-70daa9ca8037",
+      "DisplayName": "ResizeImageAz204",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

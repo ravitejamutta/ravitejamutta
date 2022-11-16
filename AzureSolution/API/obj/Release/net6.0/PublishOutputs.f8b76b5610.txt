@@ -1,0 +1,13 @@
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\API\obj\Release\net6.0\PubTmp\Out\Api.exe
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\API\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\API\obj\Release\net6.0\PubTmp\Out\Api.dll
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\API\obj\Release\net6.0\PubTmp\Out\Api.deps.json
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\API\obj\Release\net6.0\PubTmp\Out\Api.runtimeconfig.json
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\API\obj\Release\net6.0\PubTmp\Out\Api.pdb
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\API\obj\Release\net6.0\PubTmp\Out\Azure.Core.dll
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\API\obj\Release\net6.0\PubTmp\Out\Azure.Storage.Blobs.dll
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\API\obj\Release\net6.0\PubTmp\Out\Azure.Storage.Common.dll
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\API\obj\Release\net6.0\PubTmp\Out\Flurl.dll
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\API\obj\Release\net6.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\API\obj\Release\net6.0\PubTmp\Out\System.IO.Hashing.dll
+D:\personal\GitRepoPublic\ravitejamutta\AzureSolution\API\obj\Release\net6.0\PubTmp\Out\System.Memory.Data.dll
